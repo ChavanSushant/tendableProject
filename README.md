@@ -9,6 +9,7 @@ This project is a set of automated tests for the Tendable website. The tests are
 - Selenium WebDriver 3.141.59
 - Eclipse IDE
 - Make sure git installed.
+- Give chrome.exe path in System.set...
 
 ## Setup
 1. Clone the repository to your local machine.
