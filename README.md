@@ -1,8 +1,4 @@
-Install eclipse on system
-Install java18
-Install import selenium libraries 4.7
-Make sure git installed.
-Run as java application
+
 # Project Title
 
 ## Introduction
@@ -12,6 +8,7 @@ This project is a set of automated tests for the Tendable website. The tests are
 - Java 8 or higher
 - Selenium WebDriver 3.141.59
 - Eclipse IDE
+- Make sure git installed.
 
 ## Setup
 1. Clone the repository to your local machine.
@@ -25,7 +22,9 @@ To run the tests, follow these steps:
 3. Click on Run As -> Java Application.
 
 ## Test Strategy
-The tests were designed to verify the functionality of the top-level menus and the "Request a Demo" button on the Tendable website. The strategy was to...
+The tests were designed to verify the functionality of the top-level menus and the "Request a Demo" button on the Tendable website. The strategy was to validate they are accecible or not
+In second testcase we are varifing "Request a Demo" tab present for each tab
+In third we are checking error handling coverage with proper error msg should throw when we don't input msg.
 
 ## Contact Information
 For any queries or contributions, please contact...
