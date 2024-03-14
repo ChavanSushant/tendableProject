@@ -29,3 +29,6 @@ In third we are checking error handling coverage with proper error msg should th
 
 ## Contact Information
 For any queries or contributions, please contact...
+
+
+Note-- this can be done with Maven,testng,POM.but i did with simple approach of java application.
